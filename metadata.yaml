@@ -1,0 +1,25 @@
+_repo: Tecumseh-a-Drama_6843
+creator:
+  author:
+    agent_name: Mair, Charles
+    birthdate: 1838
+    deathdate: 1927
+    gutenberg_agent_id: '2214'
+    url: http://www.gutenberg.org/2009/agents/2214
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Mair
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tecumseh, Shawnee chief, 1768-1813 -- Drama'
+- !lcc 'PS'
+- !lcsh 'Shawnee Indians -- Kings and rulers -- Drama'
+title: 'Tecumseh : a Drama'
+url: http://www.gutenberg.org/ebooks/6843
